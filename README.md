@@ -8,4 +8,4 @@
 
 4 - Instale as dependências.
 
-Rode as migrações ! ! !
+Rode as migrações ! ! ! !
