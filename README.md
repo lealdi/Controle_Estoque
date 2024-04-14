@@ -9,3 +9,7 @@
 4 - Instale as dependências.
 
 Rode as migrações ! ! ! !
+
+# Links
+
+https://github.com/HBNetwork/python-decouple
